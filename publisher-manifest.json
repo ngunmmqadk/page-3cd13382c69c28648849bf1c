@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c6f11d6114ad40558394dee6",
+  "owner": "ngunmmqadk",
+  "repo": "page-3cd13382c69c28648849bf1c",
+  "title": "火箭加速器",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3cd13382c69c28648849bf1c",
+      "a": "火箭加速器",
+      "b": "稳定全球clash加速器",
+      "entity": "火箭加速器",
+      "brand": "火箭加速器",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "43c5f75fec368157f6a35ede9f89eb7b40e12c7ffa376526afa41e646058474a",
+      "content": {
+        "primary_entity": "火箭加速器",
+        "keyword1": "火箭加速器",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，再导入订阅配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "从套餐对比开始，按设备数量挑一档订阅。",
+          "AI_CLOSING_TITLE": "选好套餐再配置",
+          "AI_DESCRIPTION": "，围绕设备数量、流量周期与节点类型提供基础版、旗舰版、团队版三档订阅。基础版为 3 台设备与每月 100GB 流量；旗舰版为 5 台设备、每月 300GB 与 IPLC 专线节点；团队版为 20 台设备、每月 1000GB 与专属高带宽节点。客户端按设备系统选择，再导入订阅地址完成配置。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型快速缩小套餐范围。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合日常浏览与单人多终端。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，提供高带宽节点与定制路由。",
+          "AI_FEATURE_TITLE_1": "入门流量",
+          "AI_FEATURE_TITLE_2": "均衡性能",
+          "AI_FEATURE_TITLE_3": "多设备团队",
+          "AI_GUIDE_INTRO": "先定套餐，再按客户端导入订阅。",
+          "AI_GUIDE_TITLE": "三步完成订阅",
+          "AI_HERO_INTRO": "火箭加速器按设备数量与流量周期划分订阅档位，从单人用到团队协作都有对应方案。选择客户端、导入订阅、按需切换节点，即可开始使用。",
+          "AI_HERO_SUBTITLE": "按设备与流量选订阅",
+          "AI_HIGHLIGHT_1": "三档订阅覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月付与年付价格清晰可对比",
+          "AI_HIGHLIGHT_3": "IPLC 专线与高带宽节点可选",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付分别为 ¥150/年、¥350/年、¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版、团队版中确定一档。",
+          "AI_STEP_TEXT_2": "确认系统版本与客户端适配要求，准备安装对应客户端。",
+          "AI_STEP_TEXT_3": "按所选客户端文档导入订阅地址，保存后选择节点连接。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看设备适配",
+          "AI_STEP_TITLE_3": "配置订阅节点",
+          "AI_VISUAL_TITLE": "火箭加速器订阅方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "套餐选择、设备数量、订阅导入与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何判断该选哪档套餐？",
+          "AI_FAQ_ANSWER_1": "先统计常用设备数量和每月大致流量。3 台以内、100GB 左右选基础版；5 台设备、300GB 左右选旗舰版；设备多或流量需求大选团队版。",
+          "AI_FAQ_QUESTION_2": "套餐支持几台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超过对应数量时可考虑升级套餐。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付方案一次性支付全年费用，月均成本低于月付。基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，适合确定长期使用的用户。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "选择与设备系统对应的客户端，按照客户端文档中的订阅导入步骤操作，粘贴订阅信息后更新节点列表即可。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线面向游戏加速和流媒体播放场景，提供更稳定的线路表现。日常浏览和轻量使用选择基础版即可满足。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dashedao.cn",
+    "host": "dashedao.cn"
+  },
+  "file_hashes": {
+    "index.html": "5069ff22476c96033600b0e1ad51c2fca79ac4b98d7f653e4d765e04acf63358",
+    "sitemap.xml": "0d2afa78e63c8c5ff5930c3e7eb39dc2b74bcdb718f996d35ca1bcf54aba954b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1b1d6fc3633b8e21a4a8791e9ff0c1c840ca92dae828114640c24db37c0c0886",
+    "robots.txt": "018368f807ce3e4607e5ddda7f99e6e96c1d0258948d3b59e977891b1d670b6e",
+    "e2aa025bacac4e134a8ab73f02d6d838.txt": "c57f58b93604ad37b2a44bf248bb127e19f0a5b8fd7f7b29717c66e6b79efb7b"
+  },
+  "revision": "c24112686abfcad19c31125238a7506eff2f1becbad0f8e711937683191c5c61"
+}
